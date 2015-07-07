@@ -3,7 +3,7 @@
 A pull to refresh ListView for React Native completely written in js.
 Also supports custom animations.
 
-##Installation
+## Installation
 
 ```sh
 npm install react-native-refresher --save
@@ -55,7 +55,7 @@ class Content extends React.Component {
 
 ```
 
-##Examples
+## Examples
 
 ![Refresher: iOS Activity Indicator](https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/activity-indicator-fixed.gif)
 ![Refresher: Bar Indicator](https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/bar-indicator-top.gif)
@@ -78,7 +78,7 @@ class Content extends React.Component {
   The list style
 
 
-#Credits
+# Credits
 
 Refresher is created by [Syrus Akbary](https://www.syrusakbary.com) and inspired by [Refresher](https://github.com/jcavar/refresher) and [react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview).
 If you have suggestions or bug reports, feel free to send pull request or [create new issue](https://github.com/syrusakbary/react-native-pullrefresh-listview/issues/new).
