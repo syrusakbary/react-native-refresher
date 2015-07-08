@@ -63,7 +63,7 @@ class Content extends React.Component {
 
 #### Props
 
-- `threshold`
+- `threshold: number`
   The amount of pixeles to validate the refresh.
   By default the theshold will be calculated by the header height.
 - `minTime: number`
